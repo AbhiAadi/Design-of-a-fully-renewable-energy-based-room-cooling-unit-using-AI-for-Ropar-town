@@ -16,7 +16,7 @@ This project aims to design a fully renewable energy-based cooling unit, tailore
 - Evaluated the model using metrics like R-squared (R2), Mean Squared Error (MSE), and Mean Absolute Percentage Error (MAPE).
 
 ## Results
-- The model achieved high accuracy, with R2 scores above 0.97 and MAPE less than 10% for cooling capacity predictions.
+- The model achieved high accuracy, with R2 scores above 0.98 and MAPE less than 10% for cooling capacity predictions, where as for heating loads 0.97 for R2 score and less then 15% for MAPE value.
 - Demonstrated efficiency in predicting heating and cooling loads for different seasonal variations.
 - The project showed promise in scaling for different climates and building types.
 
@@ -27,3 +27,5 @@ This project aims to design a fully renewable energy-based cooling unit, tailore
 ## Contributors
 - Abhinav Adarsh (2021MEB1261)
 - Achal Khanna (2021MEB1263)
+
+Report - https://drive.google.com/file/d/1xlLq-JQWPk6X5PYkcDqKEFymBa8RglT-/view?usp=sharing
